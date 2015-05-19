@@ -1,0 +1,9 @@
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\bin\Debug\CustomerAndAccountInformation.exe.config
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\bin\Debug\CustomerAndAccountInformation.exe
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\bin\Debug\CustomerAndAccountInformation.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\obj\Debug\CustomerAndAccountInformation.csprojResolveAssemblyReference.cache
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\obj\Debug\CustomerAndAccountInformation.Form1.resources
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\obj\Debug\CustomerAndAccountInformation.Properties.Resources.resources
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\obj\Debug\CustomerAndAccountInformation.csproj.GenerateResource.Cache
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\obj\Debug\CustomerAndAccountInformation.exe
+c:\users\mithun\documents\visual studio 2013\Projects\CustomerAndAccountInformation\CustomerAndAccountInformation\obj\Debug\CustomerAndAccountInformation.pdb
